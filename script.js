@@ -84,7 +84,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "fontColor": "#FFFFFF",
    "selectedBackgroundColor": "#202020",
    "rollOverBackgroundColor": "#000000",
-   "id": "Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+   "id": "Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
    "rollOverOpacity": 0.8,
    "opacity": 0.4,
    "children": [
@@ -326,7 +326,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0835_360_200714222508_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -441,7 +441,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0850_360_200714224029_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -548,7 +548,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0856_360_200714223957_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -662,7 +662,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0864_360_200714223621_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -762,7 +762,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0874_360_200714223342_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -853,7 +853,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0904_360_200714224117_360",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -960,7 +960,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0900_360_200714224634_360_equi",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -1052,7 +1052,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0896_360_200714230732_360_equi",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -1159,7 +1159,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "partial": false,
   "label": "YIVR_Stitch_0890_360_200714230921_360_equi",
   "class": "Panorama",
-  "cardboardMenu": "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+  "cardboardMenu": "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
   "hfov": 360,
   "hfovMin": 60
  },
@@ -1362,7 +1362,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ]
  },
- "this.Menu_F510DAED_E71E_D0BA_41D9_011514F30BA4",
+ "this.Menu_F43AEA04_E702_F36A_41D5_81C221EB7402",
  {
   "easing": "linear",
   "duration": 400,
@@ -3239,6 +3239,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "scrollBarOpacity": 0.5,
   "backgroundOpacity": 0,
   "top": "4.83%",
+  "visible": false,
   "scrollBarColor": "#000000",
   "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:left;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#ffffff;font-size:53px;font-family:'Vivaldi';\"><B>The Pyramid</B></SPAN></SPAN></DIV><DIV STYLE=\"text-align:left;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#3399ff;font-size:30px;font-family:Tahoma, Geneva, sans-serif;\"><I>Burial Place</I></SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#ffffff;font-size:14px;font-family:Tahoma, Geneva, sans-serif;\">The Pyramid was constructed in 1770\u201372 to the design of Vasily Neyelov. It was dismantled as early as 1774 and rebuilt in 1782\u201383 by Charles Cameron. The green, moss-covered surface of what is a typical construction for parks in the late eighteenth-century Romantic era gives it the look of an ancient mausoleum.</SPAN></SPAN></DIV><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#ffffff;font-size:14px;font-family:Tahoma, Geneva, sans-serif;\">Behind the Pyramid, opposite the entrance, three of Catherine II\u2019s favourite dogs were buried: Tom Anderson, Zemira and Duchesse. The graves were once marked by white marble stones with engraved epitaphs but those have not survived</SPAN></SPAN></DIV></div>",
   "minHeight": 1,
